@@ -1,0 +1,15 @@
+3d-world-source/node_modules/
+3d-world-source/dist/
+3d-world-source/dist-single/
+.DS_Store
+Thumbs.db
+/.playwright-cli/
+/.impeccable/
+/assets/frames/
+/assets/frames2/
+/assets/decor/
+/assets/stills/*
+!/assets/stills/river-palace.webp
+!/assets/stills/river-palace.webp.json
+/world/assets/ishq-sufiyana-piano-CHjIQRfE.mp3
+/output/

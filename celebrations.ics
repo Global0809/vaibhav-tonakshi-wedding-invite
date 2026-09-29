@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vaibhav and Tonakshi//Wedding Celebrations//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vaibhav & Tonakshi Wedding
+BEGIN:VEVENT
+UID:checkin-20261125@vaibhav-tonakshi-wedding
+DTSTAMP:20260929T000000Z
+DTSTART:20261125T063000Z
+SUMMARY:Wedding stay — Check in
+LOCATION:Nirvana River Resort\, Rishikesh
+DESCRIPTION:Your stay will be lovingly hosted by us!
+END:VEVENT
+BEGIN:VEVENT
+UID:haldi-20261125@vaibhav-tonakshi-wedding
+DTSTAMP:20260929T000000Z
+DTSTART:20261125T073000Z
+SUMMARY:Vaibhav & Tonakshi — Haldi
+LOCATION:Nirvana River Resort\, Rishikesh
+DESCRIPTION:Dress code: Shades of Pink.
+END:VEVENT
+BEGIN:VEVENT
+UID:sangeet-20261125@vaibhav-tonakshi-wedding
+DTSTAMP:20260929T000000Z
+DTSTART:20261125T133000Z
+SUMMARY:Vaibhav & Tonakshi — Sangeet and Engagement
+LOCATION:Nirvana River Resort\, Rishikesh
+DESCRIPTION:Dress code: All That Glitters.
+END:VEVENT
+BEGIN:VEVENT
+UID:baraat-20261126@vaibhav-tonakshi-wedding
+DTSTAMP:20260929T000000Z
+DTSTART:20261126T073000Z
+SUMMARY:Vaibhav & Tonakshi — Baraat
+LOCATION:Nirvana River Resort\, Rishikesh
+DESCRIPTION:Dress code: Soft and Serene.
+END:VEVENT
+BEGIN:VEVENT
+UID:varmaala-20261126@vaibhav-tonakshi-wedding
+DTSTAMP:20260929T000000Z
+DTSTART:20261126T100000Z
+SUMMARY:Vaibhav & Tonakshi — Varmaala
+LOCATION:Nirvana River Resort\, Rishikesh
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-20261126@vaibhav-tonakshi-wedding
+DTSTAMP:20260929T000000Z
+DTSTART:20261126T133000Z
+SUMMARY:Vaibhav & Tonakshi — Wedding Dinner
+LOCATION:Nirvana River Resort\, Rishikesh
+END:VEVENT
+BEGIN:VEVENT
+UID:checkout-20261127@vaibhav-tonakshi-wedding
+DTSTAMP:20260929T000000Z
+DTSTART:20261127T063000Z
+SUMMARY:Wedding stay — Check out
+LOCATION:Nirvana River Resort\, Rishikesh
+END:VEVENT
+END:VCALENDAR
